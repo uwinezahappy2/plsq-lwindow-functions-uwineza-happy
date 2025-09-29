@@ -8,6 +8,9 @@ Database schema design
 Implementation of window functions
 
 Analysis of results (descriptive, diagnostic, prescriptive)
+<img width="1595" height="854" alt="image" src="https://github.com/user-attachments/assets/38d7c5b3-9b62-4b2f-bdfe-769094853335" />
+
+
 # Reference
 1. PostgreSQL Documentation – Window Functions
 
